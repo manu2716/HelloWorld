@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		System.out.println("Learning Git");
 		System.out.println("New commit");
+		System.out.println("Next commit");
 
 	}
 
